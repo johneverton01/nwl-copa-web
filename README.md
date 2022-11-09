@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src=/.github/nlw-copa.png" alt="Web Application" />
+  <img src="/.github/nlw-copa.png" alt="Web Application" />
 </div>
 
 <h1 align="center">⚽️ NLW Copa 2022</h1>
