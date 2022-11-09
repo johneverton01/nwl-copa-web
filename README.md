@@ -14,14 +14,14 @@ Este projeto em NextJs é um app para fazer Bolões dos jogos da Copa do Mundo d
 
 ## :rocket: Tecnologias ##
 
-The following tools were used in this project:
+As seguintes ferramentas foram usadas neste projeto:
 
 - [Nextjs](https://nextjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 📚️ Bibliotecas ##
 
-The following some libraries were used in this project:
+A seguir algumas bibliotecas que foram usadas neste projeto:
 
 - [Axios](https://axios-http.com/)
 - [tailwindcss](https://tailwindcss.com)
@@ -34,9 +34,9 @@ Antes de começar :checkered_flag:, você precisa ter instalado [Git](https://gi
 
 ```bash
 # Clone this project
-$ git clone https://github.com/guilhermeal/frontend_nlwcopa
+$ git clone https://github.com/johneverton01/nwl-copa-web.git
 # Access
-$ cd frontend_nlwcopa
+$ cd nwl-copa-web
 # Install dependencies
 $ npm install
 # Run the project
